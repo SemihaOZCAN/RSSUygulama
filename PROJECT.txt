@@ -1,0 +1,8 @@
+RSS Uygulama
+*********************************
+RSSUygulaması, popüler haber sitelerinden XML formatında RSS beslemelerini çekerek haber başlıklarını bir ListBox üzerinde gösteren bir C# Windows Forms uygulamasıdır.
+ Kullanıcı, haber sitesine ait butona tıkladığında, seçilen sitenin RSS başlıkları ekranda listelenir.
+ Uygulama, XmlReader kullanarak RSS verilerini okur ve GetRSSHeadlines adlı metot ile ilgili URL’den başlıkları çeker. 
+Her başlık, geri dönen bir List<string> içerisinde saklanır ve listeye eklenir. 
+Uygulama Hürriyet, Milliyet ve Fotomaç sitelerinden RSS başlıklarını çeker. 
+Hata yönetimi için try-catch blokları eklenmiş olup, internet bağlantısı veya kaynak erişim sorunları durumunda kullanıcıya uyarı mesajı gösterilir.

@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\RSSUygulama\RSSUygulama\bin\Debug\RSSUygulama.exe.config
+C:\Users\Semiha\Desktop\RSSUygulama\RSSUygulama\bin\Debug\RSSUygulama.exe
+C:\Users\Semiha\Desktop\RSSUygulama\RSSUygulama\bin\Debug\RSSUygulama.pdb
+C:\Users\Semiha\Desktop\RSSUygulama\RSSUygulama\obj\Debug\RSSUygulama.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\RSSUygulama\RSSUygulama\obj\Debug\RSSUygulama.Form1.resources
+C:\Users\Semiha\Desktop\RSSUygulama\RSSUygulama\obj\Debug\RSSUygulama.Properties.Resources.resources
+C:\Users\Semiha\Desktop\RSSUygulama\RSSUygulama\obj\Debug\RSSUygulama.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\RSSUygulama\RSSUygulama\obj\Debug\RSSUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\RSSUygulama\RSSUygulama\obj\Debug\RSSUygulama.exe
+C:\Users\Semiha\Desktop\RSSUygulama\RSSUygulama\obj\Debug\RSSUygulama.pdb
